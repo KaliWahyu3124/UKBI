@@ -1,0 +1,9 @@
+.sidebar {
+background-color: lightgrey;
+box-sizing: border-box;
+height: 100vh;
+width: 160px;
+}
+.sidebar a{
+	color: black;
+}
